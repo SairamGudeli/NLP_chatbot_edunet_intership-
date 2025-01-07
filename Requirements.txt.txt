@@ -1,0 +1,3 @@
+nltk
+stramlit
+scikit-learn
